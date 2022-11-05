@@ -6,12 +6,11 @@ description: Imagination is everything
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+city: Wilmington
+state: DE
+zip_code: 19808
 country: United States of America
-phone: (716) 555-5555
+phone: (860) 888 4349
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
